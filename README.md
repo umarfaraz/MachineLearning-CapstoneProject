@@ -14,7 +14,7 @@ Anaconda Python distribution was used to create the jupyter notebook for this pr
 
 Following files are uploaded in the repository:
 
-1. `Capstone_Project_NLP_Disaster_tweets.ipynb: Contains all the analysis and modeling of the Boston and Seattle Airbnb datasets`
+1. `Capstone_Project_NLP_Disaster_tweets.ipynb`: Contains all the analysis and modeling done as part of this capstone project`
 2. `data\train.csv` - the training set
 3. `data\test.csv` - the test set
 4. `data\sample_submission.csv` - a sample submission file in the correct format
